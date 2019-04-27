@@ -1,0 +1,27 @@
+Editor v0.3 beta
+#####################
+
+
+liste de commandes 
+
+ctrl + a:to switch
+clear    							 // to clear the screen
+open [namefile] 				     //open a file
+save [namefile]  					 // save a file
+new   								 // to create a new buffer
+buffer+  							 // go to the next buffer
+buffer- 							 // go to the previous buffer
+
+// pour changer la coloration juste taper le nom de langage
+
+
+to compile just type ./start.sh
+
+#######################################################################################"""
+
+
+to do
+1- regular expression search
+2- expression search
+3- multiple buffers   [done]
+4- syntaxe color  [done with bugs!!]
